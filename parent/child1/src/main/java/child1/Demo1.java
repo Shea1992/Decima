@@ -6,5 +6,6 @@ public class Demo1 {
 	@Test
 	public void show(){
 		System.out.println("child1...");
+		System.out.println("ĞÂÔöchild1...");
 	}
 }
